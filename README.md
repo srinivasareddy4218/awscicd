@@ -8,3 +8,5 @@ Services used:
 4. AWS CodePipeline
 5. AWS SNS
 6. AWS EC2 
+
+reference link: https://towardsdatascience.com/ci-cd-logical-and-practical-approach-to-build-four-step-pipeline-on-aws-3f54183068ec
